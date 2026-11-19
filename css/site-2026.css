@@ -485,5 +485,5 @@ mark.todo{background:#fff3a3;color:#000;padding:0 .2em;border-radius:2px}
 .vcard .bio-link a{color:#b84d00;text-decoration:underline;text-underline-offset:3px;}
 
 /* HubSpot embedded enquiry form */
-.form--hubspot{padding:clamp(18px,2vw,28px);}
+.form--hubspot{background:var(--cream-soft);border-color:transparent;color:var(--ink);padding:clamp(18px,2vw,28px);}
 .form--hubspot .hs-form-frame{min-height:420px;}
